@@ -19,7 +19,7 @@ Me Chamo <b>Thiago Quetz</b>
 <br>
 <br>
 Bem Vindo ao meu perfil GITHUB...
-Sou um programador iniciante em FrontEnd dedicado e sempre em busca de evolução. Atualmente estou focado no aprendizado para aprimorar minhas habilidades. Hoje começo aqui no GitHub para compartilhar projetos feito por mim durante essa trajetória como DEV iniciante. E Logo após como DEV Profissional. Sou aberto a criticas e sugestões, que o crescimento é importante...e como diz o mentor: "Sozinho podemos ir mais rapidos, mas juntos podemos ir mais longe".
+Sou um programador iniciante em FrontEnd dedicado e sempre em busca de evolução. Atualmente estou focado no aprendizado para aprimorar minhas habilidades. Hoje começo aqui no GitHub para compartilhar projetos feito por mim durante essa trajetória como DEV iniciante. E Logo após como DEV Profissional. Sou aberto a criticas e sugestões, que o crescimento é importante...e como diz o mentor: "Sozinho podemos ir mais rápidos, mas juntos podemos ir mais longe". <strong>#nãoexistealmoçogratis</strong>
 
 📫 <b>E-Mail:</b> lizplanejadosjf@gmail.com
 
